@@ -1,0 +1,32 @@
+body{
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    background-color: black;
+    padding: 30px;
+    margin-top: auto;
+    border-radius: 150px;
+
+}
+.light{
+    background-color: rgb(198, 198, 194);
+    height: 125px;
+    width: 125px;
+    border-radius: 150px;
+    margin: 20px;
+
+}
+.red:hover {
+    background-color: rgb(214, 2, 2);
+    cursor: pointer;
+
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
